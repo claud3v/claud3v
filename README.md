@@ -1,4 +1,4 @@
-### 👋  Hi there, I am Claude 
+### 👋   Hi there, I am Claude 
 
 I am a software developer based in Toronto, ON. 
 
@@ -6,9 +6,9 @@ I am focused on backend development and I am interested in event driven architec
 
 Java/Kotlin are my go to languages though I am also proficient in Ruby and can find my around in Typescript. Lately I've been playing around with Rust.  
 
-📫 How to reach me:
+📫  How to reach me:
 - Github 
-- (Twitter)[https://twitter.com/claud3v] 
+- [Twitter](https://twitter.com/claud3v)
 
 <!--
 **claud3v/claud3v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
