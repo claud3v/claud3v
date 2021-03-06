@@ -4,7 +4,7 @@ I am a software developer based in Toronto, ON.
 
 I am focused on backend development and am interested in event driven architecture, data streaming, (near) real time systems, resilience and scalability. 
 
-Java/Kotlin are my go to languages though I am also proficient in Ruby and can find my around Typescript. Lately I've been dabbling in Rust.  
+Java/Kotlin are my go to languages. I am proficient in Ruby and can find my around Typescript. Lately I've been dabbling in Rust.  
 
 📫  How to reach me:
 - Github 
